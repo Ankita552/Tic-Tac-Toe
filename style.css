@@ -72,7 +72,7 @@ body{
 }
 
 .msg-container{
-    height: 200vmin;
+    height: 100vmin;
     display: flex;
     justify-content: center;
     align-items: center;
